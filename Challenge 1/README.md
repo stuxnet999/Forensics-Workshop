@@ -2,7 +2,7 @@
 
 ### Description
 
-Marty thinks there is some interesting string in this image. Can u help him in finding it???
+Marty thinks there is some interesting string in this image. Can you help him in finding it???
 
 ### Difficulty level
 
