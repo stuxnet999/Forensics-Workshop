@@ -8,3 +8,6 @@ Just a simple challenge to find the flag.
 
 Easy
 
+### tl;dr
+
+strings + decode hex + decode base64.
