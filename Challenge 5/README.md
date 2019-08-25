@@ -7,4 +7,6 @@ Tom and Jerry are fighing as usual. The one who gets the flag is the winner. Jer
 
 Medium
 
+### tl;dr
 
+steghide + **notflag{...}** present in flag.txt + decode base64 + decode hex.
