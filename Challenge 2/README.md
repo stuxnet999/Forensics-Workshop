@@ -7,3 +7,7 @@ While recovering a drive, Sam found an image file. He tried to open it, but coul
 ### Difficulty level
 
 Easy
+
+### tl;dr
+
+Correct the chunks of the file using any hex editor.
