@@ -7,3 +7,7 @@ Jon found a file in his trash, he knows that something was hidden in that. Can y
 ### Difficulty Level
 
 Medium
+
+### tl;dr
+
+strings + decode base64 + binwalk + unzip using the decoded base64 string.
