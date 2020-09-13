@@ -7,3 +7,9 @@ Jim found a file in his friend computer. He suspects that there is something hid
 ### Difficulty Level
 
 Medium
+
+### tl;dr
+
+1. strings + decode hex
+2. binwalk + decode hash
+3. Steghide + decoded hash for the image which you get from zip.

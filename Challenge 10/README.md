@@ -7,3 +7,7 @@ Our Spiders are sensing something with their super cool spider sense, help them 
 ### Difficulty
 
 Hard
+
+### tl;dr
+
+binwalk + steghide(dictionary mode) + decode base64 twice.
